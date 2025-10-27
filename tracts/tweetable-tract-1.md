@@ -1,0 +1,1 @@
+When you place your faith in the promise that Christ died for your sins, was buried, and rose again, you are saved, indwelt by the Holy Spirit, and become a child of God who can never be lost.
