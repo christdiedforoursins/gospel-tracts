@@ -17,4 +17,3 @@ This repository exists to:
 
 - /tracts/ # Markdown gospel tracts (.md)
 - /README.md # This file
-- /LICENSE.md # Usage and sharing license
