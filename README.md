@@ -5,7 +5,7 @@ All content here is free to download, print, and share — no attribution requir
 
 ---
 
-## 📖 Purpose
+## Purpose
 
 This repository exists to:
 - Provide **free, Bible-centered tracts** in Markdown format (easy to edit and reuse)
@@ -13,7 +13,7 @@ This repository exists to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - /tracts/ # Markdown gospel tracts (.md)
 - /README.md # This file
