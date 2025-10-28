@@ -1,7 +1,7 @@
 # Gospel Tracts & Free Ministry Resources
 
 A collection of freely sharable Gospel tracts to spread the message of God's grace in Christ.  
-All content here is free to download, print, and share — no attribution required, but appreciated.  
+All content here is free to download, print, and share — no attribution required, but appreciated.
 
 ---
 
